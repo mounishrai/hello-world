@@ -1,2 +1,2 @@
 # hello-world
-Trial
+Trial Git Project
